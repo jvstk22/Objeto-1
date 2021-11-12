@@ -1,6 +1,6 @@
 public void game{
-int ojb1;
 
 
+string nome;
 
 }
